@@ -97,3 +97,9 @@ pre {
 :where(dialog:modal) {
   all: revert;
 }
+
+body{
+background-image: url('../img/brick-background.png');
+color: dimgray;
+background-size: cover;
+}
